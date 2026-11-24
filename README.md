@@ -9,7 +9,7 @@ Os links serão adicionados conforme os repositórios forem criados.
 
 | Projeto | Objetivo | Repositório |
 |---|---|---|
-| P0 | Primeiro fluxo com modelo de linguagem | A criar |
+| P0 | Primeiro fluxo com modelo de linguagem | (https://github.com/WagnerCorrey/trendsia-p0.git) |
 | P1 | Análise de viabilidade do uso de IA | A criar |
 | P2 | Avaliação de configurações de LLM e RAG | A criar |
 | P3a | Reflection, Tool Use e Planning | A criar |
